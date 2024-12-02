@@ -1,5 +1,9 @@
 # ⏰ Assembly Clock Program
 
+<p align="center">
+  <img width="700" alt="Hardware Setup Screenshot" src="https://example.com/hardware-setup-screenshot.png">
+</p>
+
 ## 📖 Table of Contents
 
 - [About My Program](#-about-my-program)
