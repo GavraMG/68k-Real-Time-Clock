@@ -1,7 +1,7 @@
 # ⏰ Assembly Clock Program
 
 <p align="center">
-  <img width="700" alt="Hardware Setup Screenshot" src="https://github.com/user-attachments/assets/130bca76-f584-403d-b840-64969d5121ec">
+  <img width="500" alt="Hardware Setup Screenshot" src="https://github.com/user-attachments/assets/130bca76-f584-403d-b840-64969d5121ec">
 </p>
 
 ## 📖 Table of Contents
